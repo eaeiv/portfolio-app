@@ -26,7 +26,7 @@ export default function Hero() {
       
       <div className="hidden lg:block relative w-full md:w-1/2 -mr-20 my-10">
         <div className="w-3/4">
-          <Image className="shadow rounded-full" src={userData.avatarUrl} alt="avatar">
+          <Image className="w-full h-full shadow rounded-full" src={userData.avatarUrl} alt="avatar">
           </Image>
         </div>
       </div>
