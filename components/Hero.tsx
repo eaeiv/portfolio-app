@@ -19,7 +19,7 @@ export default function Hero() {
           Athlete.
         </h1>
         <h1 className="text-4xl md:text-8xl font-bold text-gray-700 dark:text-gray-200 my-2">
-          Creative.
+          Competitor.
         </h1>
       </div>
       

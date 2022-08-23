@@ -75,10 +75,10 @@ export default function about() {
 const SkillCard = ({ lang, experience, index }) => {
   
   const stylesArr = [
-    "relative border p-1 rounded-md my-1 bg-gradient-to-r from-blue-200 to-orange-200",
-    "relative border p-1 rounded-md my-1 bg-gradient-to-r from-orange-200 to-red-200",
-    "relative border p-1 rounded-md my-1 bg-gradient-to-r from-red-200 to-violet-200",
-    "relative border p-1 rounded-md my-1 bg-gradient-to-r from-violet-200 to-blue-200",
+    "relative border dark:border-black p-1 rounded-md my-1 bg-gradient-to-r from-blue-200 to-orange-200 dark:from-blue-700 dark:to-orange-700",
+    "relative border dark:border-black p-1 rounded-md my-1 bg-gradient-to-r from-orange-200 to-red-200 dark:from-orange-700 dark:to-red-700",
+    "relative border dark:border-black p-1 rounded-md my-1 bg-gradient-to-r from-red-200 to-violet-200 dark:from-red-700 dark:to-violet-700",
+    "relative border dark:border-black p-1 rounded-md my-1 bg-gradient-to-r from-violet-200 to-blue-200 dark:from-violet-700 dark:to-blue-700",
   ]
 
   console.log(stylesArr.at(index%4));

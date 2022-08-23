@@ -8,8 +8,14 @@ export default function Projects() {
         <h1 className="text-5xl md:text-9xl font-bold py-20 text-center md:text-left">
           Projects
         </h1>
+        
       </div>
-      <div className="bg-gray-200 dark:bg-gray-900">
+      <div className="max-w-6xl mx-auto h-48 bg-white dark:bg-gray-800">
+        <h2 className="text-2xl md:text-5xl italic py-20 text-center md:text-left">
+          WIP. Please come back later.
+        </h2>
+      </div>
+      {/* <div className="bg-gray-200 dark:bg-gray-900">
         <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 py-20 pb-40">
           {userData.projects.map((proj, idx) => (
             <ProjectCard
@@ -22,7 +28,7 @@ export default function Projects() {
           ))}
         </div>
 
-      </div>
+      </div> */}
     </section>
   )
 }

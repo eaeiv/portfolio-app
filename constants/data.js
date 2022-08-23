@@ -16,13 +16,12 @@ const userData = {
   ],
   about: {
     title:
-      "Versatile, detail-oriented software engineer",
+      "Versitile, detail-oriented Software Engineer",
     description: 
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "While my experience is primarily with low-level C/C++ with Python scripting, I enjoy learning new languages and taking on challenging projects. Currently, I am investigating Rust, Next.js, and Typescript.",
     bio: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Curabitur gravida arcu ac tortor dignissim. Ut lectus arcu bibendum at varius vel. Egestas pretium aenean pharetra magna ac. Ut ornare lectus sit amet est placerat in egestas erat. Diam vel quam elementum pulvinar etiam non quam lacus suspendisse. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Ullamcorper velit sed ullamcorper morbi tincidunt. Aliquet porttitor lacus luctus accumsan tortor posuere ac ut consequat.",
-      "Porta nibh venenatis cras sed felis. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Non consectetur a erat nam at lectus urna duis convallis. Volutpat diam ut venenatis tellus in metus. Tincidunt ornare massa eget egestas purus viverra accumsan in. Morbi leo urna molestie at elementum. Et netus et malesuada fames ac turpis egestas integer eget. Quam vulputate dignissim suspendisse in est ante. Et malesuada fames ac turpis. Lorem mollis aliquam ut porttitor. Gravida neque convallis a cras semper auctor neque.",
-      "Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Id eu nisl nunc mi ipsum faucibus vitae aliquet. Enim praesent elementum facilisis leo vel. Lacus vel facilisis volutpat est velit egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames. Ultrices gravida dictum fusce ut placerat. Dapibus ultrices in iaculis nunc sed. Nisl condimentum id venenatis a condimentum. Risus nec feugiat in fermentum posuere urna. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Nisi porta lorem mollis aliquam ut porttitor leo a.",
+      "I am a motivated Software Engineer with a wide range of development experience. My work experience has made me adept at designing and rapidly prototyping solutions to meet tight deadlines and exceed expectations. I pride myself on my skill as an individual contributor and team collaborator who highly regards constructive criticism and diversity of perspective. As a zealot for growth, innovation, and optimization, I carry my work ethic into all matters, both personal and professional.",
+      "In my free time, I prioritize training my mind and body. While I am a big fan of the classics, lately I have been reading philosophical books focused on the refinement of the body and fostering the warrior's spirit. \"Sun & Steel\" and the \"Hagakure\" have been two of my recent favorites. I take my fitness very seriously and constantly experiment with my diet and fitness regimen. I've run the gauntlet from bodybuilding to powerlifting, but have recently shifted my focus to what I consider the fundamental elements of general athletism: strength, mobility, coordination, and conditioning. The latter three often go overlooked but can easily be incorperated into any training routine. I began practicing Muay Thai to address these overlooked elements and revel in the competition it provides.",
     ],
     skills: [
       {
@@ -30,11 +29,11 @@ const userData = {
         experience: "Experienced"
       },
       {
-        lang: "C",
+        lang: "Python",
         experience: "Experienced"
       },
       {
-        lang: "Python",
+        lang: "C",
         experience: "Experienced"
       },
       {
@@ -42,7 +41,27 @@ const userData = {
         experience: "Skillful"
       },
       {
-        lang: "React + NextJS",
+        lang: "Git",
+        experience: "Skillful"
+      },
+      {
+        lang: "Embedded Systems",
+        experience: "Skillful"
+      },
+      {
+        lang: "Linux Development",
+        experience: "Familiar"
+      },
+      {
+        lang: "Bash",
+        experience: "Familiar"
+      },
+      {
+        lang: "Typescript + React + NextJS",
+        experience: "Learning"
+      },
+      {
+        lang: "Rust",
         experience: "Learning"
       },
       {
