@@ -1,5 +1,5 @@
 const userData = {
-  githubUsername: "manuarora700",
+  githubUsername: "eaeiv",
   name: "Ernest A Elgin IV",
   initials: "EAEIV",
   designation: "Software Engineer",
@@ -58,11 +58,11 @@ const userData = {
   
   experience: [
     {
-      title: "Software Developer",
-      company: "mroads",
-      year: "2021",
-      companyLink: "https://mroads.com",
-      desc: "Contributed to our flagship product - Panna - which is an AI powered candidate interviewing product.",
+      title: "",
+      company: "",
+      year: "",
+      companyLink: "",
+      desc: "",
     },
   ]
 };
