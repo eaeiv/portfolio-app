@@ -1,5 +1,6 @@
 import React from "react";
 import userData from "../constants/data";
+import Image from "next/image"
 
 export default function Hero() {
   const colors = []
@@ -25,8 +26,8 @@ export default function Hero() {
       
       <div className="hidden lg:block relative w-full md:w-1/2 -mr-20 my-10">
         <div className="w-3/4">
-          <img className="shadow rounded-full" src={userData.avatarUrl} alt="avatar">
-          </img>
+          <Image className="shadow rounded-full" src={userData.avatarUrl} alt="avatar">
+          </Image>
         </div>
       </div>
     </div>

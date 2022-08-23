@@ -34,6 +34,7 @@ export default function about() {
                 <div className="mt-4">
                   {userData.about.skills.map((skill, idx) => (
                     <SkillCard
+                      key={skill.lang}
                       lang = {skill.lang}
                       experience = {skill.experience}
                       index = {idx}
