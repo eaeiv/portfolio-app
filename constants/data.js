@@ -7,6 +7,10 @@ const userData = {
   email: "ernest.a.elgin.iv@gmail.com",
   phone: "201-478-2199",
   address: "Franklin Lakes, NJ",
+  socialLinks: {
+    linkedin : "https://www.linkedin.com/in/eaeiv/",
+    github: "https://github.com/eaeiv"
+  },
   projects: [
     {
       title: "Slime Simulation",
